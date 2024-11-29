@@ -1,0 +1,5 @@
+biodata
+
+nama : Rakha Amanta Satwika
+kelas : 4IA26
+npm : 51421244
